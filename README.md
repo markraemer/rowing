@@ -1,1 +1,1 @@
-rowing
+rowing-visualisation
